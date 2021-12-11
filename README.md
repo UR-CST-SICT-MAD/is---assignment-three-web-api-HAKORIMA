@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6437504&assignment_repo_type=AssignmentRepo)
 # MAD Assignment Web API (for IS)
 
-### Registration Number: ..............
+### Registration Number: 219009032
 
 ## Scenario
 
@@ -18,4 +18,4 @@ Hotels should have a name, the name of the owner(owner can be individual or a co
 ### Note: Don't be limited to the features specified in instructions, feel free to add any other feature you think is necessary.
 
 
-#### Link to Postman Collection : 
+#### Link to Postman Collection : https://www.getpostman.com/collections/924da5ed0ea12b8be6be
